@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local-proxy-router", "local-proxy-router\local-proxy-router.csproj", "{CDFFAF93-B10A-460A-B87B-1FD897CE6E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFFAF93-B10A-460A-B87B-1FD897CE6E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFFAF93-B10A-460A-B87B-1FD897CE6E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFFAF93-B10A-460A-B87B-1FD897CE6E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFFAF93-B10A-460A-B87B-1FD897CE6E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC2B5F0-7DF4-48AA-B1E0-48AB07F12725}
+	EndGlobalSection
+EndGlobal
